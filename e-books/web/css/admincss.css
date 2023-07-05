@@ -1,0 +1,64 @@
+span{
+    font-size: 13px;
+}
+img {
+    overflow: clip;
+    display: inline-block;
+    width: 100%;
+    min-width: 60%;
+    overflow-y: hidden;
+}
+.navbar-form {
+    position: absolute;
+    float: none;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+.input-group {
+    position: relative;
+    width: 450px;
+}
+.col-lg-3 {
+    margin-top: 10px;
+    margin-left: 860px;
+    font-size: 18px;
+}
+.alert{
+    margin-top: 15px;
+}
+.table{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.td1 {
+    width: 2%;
+}
+.td2 {
+    width: 5%;
+}
+.td3 {
+    width: 5%;
+}
+.td4 {
+    width: 1%;
+}
+.td5 {
+    width: 3%;
+}
+.td6 {
+    width: 0%;
+}
+.td7 {
+    width: 17%;
+}
+.td8 {
+    width: 3%;
+}
+.td9 {
+    width: 5%;
+}
+
+.modal-footer{
+    border-top: 0px;
+    margin-top: -17px;
+}

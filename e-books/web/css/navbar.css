@@ -1,0 +1,53 @@
+html, body {
+    height: 100%;
+}
+.container{
+    min-height: 100%;
+}
+.glyphicon-tasks{
+    font-size: 15px;
+}
+.container-fluid{
+    width: 1170px;
+    font-size: 16px;
+}
+.navbar{
+    border-radius: 0px;
+}
+.navbar-text {
+    float: left;
+    margin: 13px 15px 0px 15px;
+    font-size: 17px;
+}
+#userLabel{
+    color: #9d9d9d;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.modal-dialog{
+    width: 335px;
+}
+.icon span{
+    font-size: 20px;
+}
+#registerTittle,#loginTittle{
+    height: 30px;
+    line-height: 28px;
+    transition: all ease-in-out 500ms;
+    width: 305px;
+    margin: 7px auto -13px;
+}
+#registerTittle span,#loginTittle span{
+    font-size: 16px;
+}
+.alert{
+    padding: 10px;
+    margin-bottom: 8px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.modal-footer{
+    border-top: 0px;
+    margin-top: -17px;
+}
